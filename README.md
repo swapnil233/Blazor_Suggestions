@@ -1,6 +1,6 @@
-| **Blazor UI Components** Suggestions | ![](media/image1.png)|
-|------------------------------------------|------------------------------|
-| *Last updated:* **June 1, 2022**     |                                                                                   |
+| **Blazor UI Components** Suggestions | <img src="./media/image1.png" style="width:2.79214in;height:2.1913in" /> |
+|--------------------------------------|--------------------------------------------------------------------------|
+| *Last updated:* **June 1, 2022**     |                                                                          |
 
 <!-- TOC -->
 
@@ -81,7 +81,7 @@ application:
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="2"><img src="media/image2.gif"
+<th colspan="2"><img src="./media/image2.gif"
 style="width:5in;height:4.15625in" /></th>
 </tr>
 </thead>
@@ -111,7 +111,7 @@ Link</a></p></li>
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="2"><img src="media/image3.gif"
+<th colspan="2"><img src="./media/image3.gif"
 style="width:6.11458in;height:5.07292in"
 alt="francais Search Canada.ca Species search )usky Salapander (Desmognathus ian population Table of contents Species summary. us ochrophaeus o Legal list o COSEWIC assessment o Related Species Species details o Description " /></th>
 </tr>
@@ -141,7 +141,7 @@ at Risk</a></p></li>
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="2"><img src="media/image4.gif"
+<th colspan="2"><img src="./media/image4.gif"
 style="width:6.875in;height:2.57292in"
 alt="Government of Canada Gouvernement du Canada Application name Overview Section 1 Section 2 Section 3 Section 4 Page Page Page Page Page John Doe - November 4, 2021 2:27 PM O Open Reference ID: a9ebe89d-d3ee-44e8-aef8-bb54525da22f1 " /></th>
 </tr>
@@ -176,7 +176,7 @@ ramp4-pcar4/story-ramp (github.com)</a></p></li>
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="2"><img src="media/image5.gif"
+<th colspan="2"><img src="./media/image5.gif"
 style="width:6.83334in;height:3.11458in"
 alt="2021 Date modified: 2019-03-08 2022 2023 Previous Page nditions • Privacy Save &amp; Next Page Canadå " /></th>
 </tr>
@@ -208,10 +208,10 @@ Link</a></p></li>
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="2"><p><img src="media/image6.png"
+<th colspan="2"><p><img src="./media/image6.png"
 style="width:6.35416in;height:3.05208in"
 alt="Bearded Owl-clover Legal information Name Bearded Owl-clover COSEWIC information Name Bearded Owl-clover Range British Columbia Taxonomic group Vascular Plants Scientific name Triphysaria versicolor Status on Schedule 1 Endangered Status Endangered Date added 2003-06-05 Last assessed 2011-11 " /></p>
-<p><img src="media/image7.png"
+<p><img src="./media/image7.png"
 style="width:6.35417in;height:2.727in" /></p></th>
 </tr>
 </thead>
@@ -255,18 +255,19 @@ Bootstrap (getbootstrap.com)</a></p></li>
 </colgroup>
 <thead>
 <tr class="header">
-<th><img src="media/image8.gif"
+<th><img src="./media/image8.gif"
 style="width:2.96875in;height:1.5625in" /></th>
-<th><img src="media/image9.png" style="width:1.73958in;height:1.65625in"
+<th><img src="./media/image9.png"
+style="width:1.73958in;height:1.65625in"
 alt="Bulk Action v e Approve Deny " /></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="media/image10.png"
+<td><img src="./media/image10.png"
 style="width:2.38542in;height:2.03125in"
 alt="Dropdown button • Action Another action Something else here (button class=&quot;btn btn-se " /></td>
-<td><img src="media/image11.png"
+<td><img src="./media/image11.png"
 style="width:3.22917in;height:2.53125in"
 alt="Primary Exampl &lt;div class= (button t (button t (span c &lt;/button&gt; Secondary Action Another action Something else here Separated link suc btn btn ogg: " /></td>
 </tr>
@@ -310,7 +311,7 @@ href="https://getbootstrap.com/docs/5.2/components/dropdowns/#split-button">Drop
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="2"><img src="media/image12.png"
+<th colspan="2"><img src="./media/image12.png"
 style="width:2.19792in;height:0.97917in" alt="호 10 E뚀이 " /></th>
 </tr>
 </thead>
@@ -345,7 +346,7 @@ Offenders Registry - Canada.ca</a></p></li>
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="2"><img src="media/image13.png"
+<th colspan="2"><img src="./media/image13.png"
 style="width:7.36667in;height:2.30208in" /></th>
 </tr>
 </thead>
@@ -375,7 +376,7 @@ at Risk</a></p></li>
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="2"><img src="media/image14.png"
+<th colspan="2"><img src="./media/image14.png"
 style="width:6.14583in;height:0.48655in" /></th>
 </tr>
 </thead>
@@ -405,9 +406,9 @@ at Risk</a></p></li>
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="2"><p><img src="media/image15.png"
+<th colspan="2"><p><img src="./media/image15.png"
 style="width:7.27945in;height:1.07675in" /></p>
-<p><img src="media/image16.png"
+<p><img src="./media/image16.png"
 style="width:7.16667in;height:0.62708in" /></p></th>
 </tr>
 </thead>
