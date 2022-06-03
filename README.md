@@ -1,4 +1,4 @@
-| **Blazor UI Components** Suggestions | ![](media/image1.png){width="2.7921445756780403in" height="2.1913035870516184in"} |
+| **Blazor UI Components** Suggestions | ![](media/image1.png)|
 |------------------------------------------|------------------------------|
 | *Last updated:* **June 1, 2022**     |                                                                                   |
 
