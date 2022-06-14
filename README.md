@@ -218,22 +218,17 @@ style="width:6.35417in;height:2.727in" /></p></th>
 <tbody>
 <tr class="odd">
 <td><strong>Details</strong></td>
-<td>A card is a flexible and extensible content container. It includes
-options for headers and footers, a wide variety of content, contextual
-background colors.</td>
+<td>A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors.</td>
 </tr>
 <tr class="even">
 <td><strong>Live Example</strong></td>
 <td><ul>
 <li><p><a
-href="https://species-registry.canada.ca/index-en.html#/species?ranges=2,7&amp;sortBy=commonNameSort&amp;sortDirection=asc&amp;pageSize=10">Species
-at Risk</a></p></li>
+href="https://species-registry.canada.ca/index-en.html#/species?ranges=2,7&amp;sortBy=commonNameSort&amp;sortDirection=asc&amp;pageSize=10">Species at Risk</a></p></li>
 <li><p><a
-href="https://lakeclearmoon.z27.web.core.windows.net/report/part_1a/part_1a_disposals.html">Disposals
-- National Pollutant Release Inventory (windows.net)</a></p></li>
+href="https://lakeclearmoon.z27.web.core.windows.net/report/part_1a/part_1a_disposals.html">Disposals - National Pollutant Release Inventory (windows.net)</a></p></li>
 <li><p><a
-href="https://getbootstrap.com/docs/4.0/components/card/">Cards ·
-Bootstrap (getbootstrap.com)</a></p></li>
+href="https://getbootstrap.com/docs/4.0/components/card/">Cards · Bootstrap (getbootstrap.com)</a></p></li>
 </ul></td>
 </tr>
 </tbody>
@@ -278,25 +273,20 @@ alt="Primary Exampl &lt;div class= (button t (button t (span c &lt;/button&gt; S
 <tbody>
 <tr class="odd">
 <td><strong>Details</strong></td>
-<td>Keyboard- and accessibility-friendly dropdowns/menus; useful for
-embedding into tables and having additional actions hidden from
-immediate view to not clutter the screen.</td>
+<td>Keyboard- and accessibility-friendly dropdowns/menus; useful for embedding into tables and having additional actions hidden from immediate view to not clutter the screen.</td>
 </tr>
 <tr class="even">
 <td><strong>Live Example</strong></td>
 <td><ul>
 <li><p><a
-href="https://lakeclearmoon.z27.web.core.windows.net/reporting_dashboard.html">Reporting
-dashboard - National Pollutant Release Inventory
+href="https://lakeclearmoon.z27.web.core.windows.net/reporting_dashboard.html">Reporting dashboard - National Pollutant Release Inventory
 (windows.net)</a></p></li>
 <li><p><a
 href="https://www.figma.com/file/ezbIuyTPtc0yN66BaRfGYN/SSA-wireframes-%2B-mockups?node-id=698%3A55291">https://www.figma.com/file/ezbIuyTPtc0yN66BaRfGYN/SSA-wireframes-%2B-mockups?node-id=698%3A55291</a></p></li>
 <li><p><a
-href="https://getbootstrap.com/docs/5.2/components/dropdowns/#single-button">Dropdowns
-· Bootstrap v5.2 (getbootstrap.com)</a></p></li>
+href="https://getbootstrap.com/docs/5.2/components/dropdowns/#single-button">Dropdowns · Bootstrap v5.2 (getbootstrap.com)</a></p></li>
 <li><p><a
-href="https://getbootstrap.com/docs/5.2/components/dropdowns/#split-button">Dropdowns
-· Bootstrap v5.2 (getbootstrap.com)</a></p></li>
+href="https://getbootstrap.com/docs/5.2/components/dropdowns/#split-button">Dropdowns · Bootstrap v5.2 (getbootstrap.com)</a></p></li>
 </ul></td>
 </tr>
 </tbody>
@@ -318,18 +308,15 @@ style="width:2.19792in;height:0.97917in" alt="호 10 E뚀이 " /></th>
 <tbody>
 <tr class="odd">
 <td><strong>Details</strong></td>
-<td>This is more of a common functionality than a UI component: export
-search results (based on filters) in CSV/Excel format.</td>
+<td>This is more of a common functionality than a UI component: export search results (based on filters) in CSV/Excel format.</td>
 </tr>
 <tr class="even">
 <td><strong>Live Example</strong></td>
 <td><ul>
 <li><p><a
-href="https://species-registry.canada.ca/index-en.html#/species?sortBy=commonNameSort&amp;sortDirection=asc&amp;pageSize=10">Species
-search - Species at risk registry (canada.ca)</a></p></li>
+href="https://species-registry.canada.ca/index-en.html#/species?sortBy=commonNameSort&amp;sortDirection=asc&amp;pageSize=10">Species search - Species at risk registry (canada.ca)</a></p></li>
 <li><p><a
-href="https://environmental-protection.canada.ca/offenders-registry#:~:text=Search-,Export%20all%20records%20of%20the%20Environmental%20Offenders%20Registry,-Click%20on%20the">Environmental
-Offenders Registry - Canada.ca</a></p></li>
+href="https://environmental-protection.canada.ca/offenders-registry#:~:text=Search-,Export%20all%20records%20of%20the%20Environmental%20Offenders%20Registry,-Click%20on%20the">Environmental Offenders Registry - Canada.ca</a></p></li>
 </ul></td>
 </tr>
 </tbody>
@@ -353,15 +340,13 @@ style="width:7.36667in;height:2.30208in" /></th>
 <tbody>
 <tr class="odd">
 <td><strong>Details</strong></td>
-<td>A collapsible menu that checkboxes or radio button options for
-filtering through a data table or other UI components (like cards).</td>
+<td>A collapsible menu that checkboxes or radio button options for filtering through a data table or other UI components (like cards).</td>
 </tr>
 <tr class="even">
 <td><strong>Live Example</strong></td>
 <td><ul>
 <li><p><a
-href="https://species-registry.canada.ca/index-en.html#/species?ranges=2,7&amp;sortBy=commonNameSort&amp;sortDirection=asc&amp;pageSize=10">Species
-at Risk</a></p></li>
+href="https://species-registry.canada.ca/index-en.html#/species?ranges=2,7&amp;sortBy=commonNameSort&amp;sortDirection=asc&amp;pageSize=10">Species at Risk</a></p></li>
 </ul></td>
 </tr>
 </tbody>
@@ -383,15 +368,13 @@ style="width:6.14583in;height:0.48655in" /></th>
 <tbody>
 <tr class="odd">
 <td><strong>Details</strong></td>
-<td>A horizontal list of selected filter options that can be dismissed
-individually or can all be cleared with a button.</td>
+<td>A horizontal list of selected filter options that can be dismissed individually or can all be cleared with a button.</td>
 </tr>
 <tr class="even">
 <td><strong>Live Example</strong></td>
 <td><ul>
 <li><p><a
-href="https://species-registry.canada.ca/index-en.html#/species?ranges=2,7&amp;sortBy=commonNameSort&amp;sortDirection=asc&amp;pageSize=10">Species
-at Risk</a></p></li>
+href="https://species-registry.canada.ca/index-en.html#/species?ranges=2,7&amp;sortBy=commonNameSort&amp;sortDirection=asc&amp;pageSize=10">Species at Risk</a></p></li>
 </ul></td>
 </tr>
 </tbody>
@@ -415,20 +398,15 @@ style="width:7.16667in;height:0.62708in" /></p></th>
 <tbody>
 <tr class="odd">
 <td><strong>Details</strong></td>
-<td>A drop down multi select component with text input to filter down
-available options. Each selection appears as a pill that can be
-dismissed to remove the selection.</td>
+<td>A drop down multi select component with text input to filter down available options. Each selection appears as a pill that can be dismissed to remove the selection.</td>
 </tr>
 <tr class="even">
 <td><strong>Live Example</strong></td>
 <td><ul>
 <li><p><a
-href="https://www.figma.com/proto/ezbIuyTPtc0yN66BaRfGYN/SSA-wireframes-%2B-mockups?node-id=1279%3A82050&amp;scaling=min-zoom&amp;page-id=351%3A1604&amp;starting-point-node-id=1279%3A86906&amp;show-proto-sidebar=1">Figma
-Link for SSA</a></p></li>
-<li><p><a href="https://choices-js.github.io/Choices/">Choices
-(choices-js.github.io)</a></p></li>
-<li><p><a href="https://vue-multiselect.js.org/">Vue-Multiselect | Vue
-Select Library</a></p></li>
+href="https://www.figma.com/proto/ezbIuyTPtc0yN66BaRfGYN/SSA-wireframes-%2B-mockups?node-id=1279%3A82050&amp;scaling=min-zoom&amp;page-id=351%3A1604&amp;starting-point-node-id=1279%3A86906&amp;show-proto-sidebar=1">Figma Link for SSA</a></p></li>
+<li><p><a href="https://choices-js.github.io/Choices/">Choices (choices-js.github.io)</a></p></li>
+<li><p><a href="https://vue-multiselect.js.org/">Vue-Multiselect | Vue Select Library</a></p></li>
 </ul></td>
 </tr>
 </tbody>
