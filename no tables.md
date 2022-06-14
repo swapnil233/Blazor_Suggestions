@@ -11,16 +11,17 @@
     - [Implemented](#implemented)
 - [Components](#components)
     - [Sticky components](#sticky-components)
-    - [Sticky Side Menu](#sticky-side-menu)
-    - [Sticky Table of Contents](#sticky-table-of-contents)
-    - [Sticky Header](#sticky-header)
-    - [Sticky Footer](#sticky-footer)
+        - [Sticky Side Menu](#sticky-side-menu)
+        - [Sticky Table of Contents](#sticky-table-of-contents)
+        - [Sticky Header](#sticky-header)
+        - [Sticky Footer](#sticky-footer)
     - [Cards](#cards)
     - [Dropdowns / Menus](#dropdowns--menus)
     - [Export to Excel/CSV](#export-to-excelcsv)
     - [Faceted Search](#faceted-search)
-    - [Selected Filter Option (Pills)](#selected-filter-option-pills)
-    - [Export to Excel/CSV](#export-to-excelcsv)
+        - [Faceted Filter Menu](#faceted-filter-menu)
+        - [Selected Filter Option (Pills)](#selected-filter-option-pills)
+    - [Multi Select](#multi-select)
 
 <!-- /TOC -->
 
@@ -71,7 +72,7 @@ application:
 
 ## Sticky components
 
-## Sticky Side Menu
+### Sticky Side Menu
 
 <dl>
     <dt><img src="./media/image2.gif"/></dt>
@@ -80,14 +81,14 @@ application:
     <dd>Live Example: <a href="https://lakeclearmoon.z27.web.core.windows.net/report/part_1a/part_1a_disposals.html">NPRI Link</a><dd>
 </dl>
 
-## Sticky Table of Contents
+### Sticky Table of Contents
 
 <dl>
     <dt><img src="./media/image3.gif"/></dt>
     <dd>Live Example: <a href="https://species-registry.canada.ca/index-en.html#/species/963-646">Species at Risk</a><dd>
 </dl>
 
-## Sticky Header
+### Sticky Header
 
 <dl>
     <dt><img src="./media/image4.gif"/></dt>
@@ -102,7 +103,7 @@ application:
     </dd>
 </dl>
 
-## Sticky Footer
+### Sticky Footer
 
 <dl>
     <dt><img src="./media/image5.gif"/></dt>
@@ -173,6 +174,8 @@ application:
 
 ## Faceted Search
 
+### Faceted Filter Menu
+
 <dl>
     <dt><img src="./media/image13.png"/></dt>
     <dt>Details</dt>
@@ -183,7 +186,7 @@ application:
     </dd>
 </dl>
 
-## Selected Filter Option (Pills)
+### Selected Filter Option (Pills)
 
 <dl>
     <dt><img src="./media/image14.png"/></dt>
@@ -195,7 +198,7 @@ application:
     </dd>
 </dl>
 
-## Export to Excel/CSV
+## Multi Select
 
 <dl>
     <dt><img src="./media/image15.png"/></dt>
